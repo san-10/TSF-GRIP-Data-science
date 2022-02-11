@@ -2,7 +2,7 @@
 
 
 TASK-1
-- Prediction using supervised ml linear regression 
+- Prediction using supervised ml linear regression.
 
 TASK-2
 
