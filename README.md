@@ -1,11 +1,11 @@
 # TSF-GRIP-Data-science
 
 
-TASK-1
+TASK -1
 
 - Prediction using supervised ml linear regression.
 
-TASK-2
+TASK -2
 
 - Prediction using unsupervised ml clustering
 
