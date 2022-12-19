@@ -3,15 +3,15 @@
 
 TASK -1
 
-- Prediction using supervised ml linear regression.
+- Prediction using supervised machine learning linear regression.
 
 TASK -2
 
-- Prediction using unsupervised ml clustering
+- Prediction using unsupervised machine learning clustering
 
 TASK-3
 
-- Prediction using supervised ml Decision Tree Algorithm
+- Prediction using supervised machine learning Decision Tree Algorithm
 
 TASK - 4 
 
